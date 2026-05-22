@@ -11,7 +11,7 @@ $(document).ready(function () {
         });
     }
 
-    const targetDate = new Date("April 21, 2026 00:00:00").getTime();
+    const targetDate = new Date("June 14, 2026 00:00:00").getTime();
     let popupShown = false;
 
     function updateCountdown1() {
@@ -38,7 +38,7 @@ $(document).ready(function () {
     }
     setInterval(updateCountdown1, 1000);
     updateCountdown1();
-    const targetDate1 = new Date("April 19, 2026 00:00:00").getTime();
+    const targetDate1 = new Date("June 13, 2026 00:00:00").getTime();
     let popupShown1 = false;
       function updateCountdown() {
         const now = new Date().getTime();
