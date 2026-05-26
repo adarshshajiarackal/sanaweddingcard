@@ -232,7 +232,7 @@ opacity: 0;
     background-image: url(../images/bg1.jpg);
 }
 .calander{
-    background-color: #6D0F1F;
+    background-color: #fc0050;
     padding: 30px;
     color: white !important;
 }
@@ -250,7 +250,7 @@ opacity: 0;
     font-size: .6rem;
 }
 .btn-outline{
-    background-color: #6D0F1F;
+    background-color: #fc0050;
     color:white;
     border:1px solid var(--primary-color);
     padding: 8px 12px ;
