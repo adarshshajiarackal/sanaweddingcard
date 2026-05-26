@@ -21,7 +21,7 @@
     font-size: 2rem !important;
 }
 .btn-primary{
-    background-color: var(--primary-color) !important;
+    background-color: #fc0050 !important;
     border: none !important;
     font-family:var(--secondary-text);
     font-size: 1.2rem;
